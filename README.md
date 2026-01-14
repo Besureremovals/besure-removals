@@ -1,3 +1,7 @@
+/ (root)
+├── index.html
+└── assets/
+    └── flyer.png
 <!DOCTYPE html>
 <html lang="en">
 <head>
